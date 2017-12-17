@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Boxcollider
+  - Player
+  - Level
+  - BusterBullet
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky1
+    uniqueID: 638303129
+    locked: 0
+  - name: Sky
+    uniqueID: 1894973755
+    locked: 0
+  - name: Moon
+    uniqueID: 2495690351
+    locked: 0
+  - name: Clouds
+    uniqueID: 3677434751
+    locked: 0
+  - name: Mountains
+    uniqueID: 427054125
+    locked: 0
+  - name: Mountainsfront
+    uniqueID: 142382047
+    locked: 0
+  - name: Trees
+    uniqueID: 1935188969
+    locked: 0
+  - name: Effects
+    uniqueID: 2290498453
+    locked: 0
+  - name: Coins
+    uniqueID: 3412957195
+    locked: 0
+  - name: Platyformstep-B
+    uniqueID: 4029779673
+    locked: 0
+  - name: Platformstep
+    uniqueID: 2146100911
+    locked: 0
+  - name: Platform
+    uniqueID: 518895657
+    locked: 0
+  - name: Players
+    uniqueID: 3305910203
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

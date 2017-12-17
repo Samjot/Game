@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 2848e07e6aba8ac488e0b9906ecb0f7b
+timeCreated: 1512006284
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Birds_0
+    21300002: Birds_1
+    21300004: Birds_2
+    21300006: Birds_3
+    21300008: Birds_4
+    21300010: Birds_5
+    21300012: Birds_6
+    21300014: Birds_7
+    21300016: Birds_8
+    21300018: Birds_9
+    21300020: Birds_10
+    21300022: Birds_11
+    21300024: Birds_12
+    21300026: Birds_13
+    21300028: Birds_14
+    21300030: Birds_15
+    21300032: Birds_16
+    21300034: Birds_17
+    21300036: Birds_18
+    21300038: Birds_19
+    21300040: Birds_20
+    21300042: Birds_21
+    21300044: Birds_22
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Birds_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 675
+        width: 112
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5289758, y: 0.8676933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 679
+        width: 112
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5248364, y: 0.846378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 671
+        width: 109
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5195105, y: 0.85136217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 670
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.48409948, y: 0.8449924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 675
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.47164422, y: 0.8175822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 560
+        width: 104
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4754615, y: 0.756972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 570
+        width: 93
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3856631, y: 0.5548824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 557
+        width: 106
+        height: 55
+      alignment: 9
+      pivot: {x: 0.44783655, y: 0.29893354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 547
+        width: 106
+        height: 80
+      alignment: 9
+      pivot: {x: 0.44382375, y: 0.1650505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 546
+        width: 107
+        height: 95
+      alignment: 9
+      pivot: {x: 0.44037378, y: 0.1597335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 403
+        width: 111
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4808408, y: 0.1980136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 404
+        width: 111
+        height: 92
+      alignment: 9
+      pivot: {x: 0.48084074, y: 0.18562384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 402
+        width: 109
+        height: 99
+      alignment: 9
+      pivot: {x: 0.45707634, y: 0.17348196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 411
+        width: 108
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4566789, y: 0.16770871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 410
+        width: 107
+        height: 80
+      alignment: 9
+      pivot: {x: 0.44832376, y: 0.18631706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 303
+        width: 106
+        height: 57
+      alignment: 9
+      pivot: {x: 0.451849, y: 0.27614072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 308
+        width: 93
+        height: 28
+      alignment: 9
+      pivot: {x: 0.39023647, y: 0.4392395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 325
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 295
+        width: 93
+        height: 48
+      alignment: 9
+      pivot: {x: 0.40395692, y: 0.74811107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 274
+        width: 106
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4558615, y: 0.8119112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 268
+        width: 108
+        height: 92
+      alignment: 9
+      pivot: {x: 0.468494, y: 0.8328698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 145
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.46878284, y: 0.8521578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Birds_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 147
+        width: 111
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49233624, y: 0.8393109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

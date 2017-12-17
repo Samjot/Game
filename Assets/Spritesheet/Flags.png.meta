@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 083f5748228e24c4bb822bca3f9c2cf6
+timeCreated: 1512419732
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flags_0
+    21300002: Flags_1
+    21300004: Flags_2
+    21300006: Flags_3
+    21300008: Flags_4
+    21300010: Flags_5
+    21300012: Flags_6
+    21300014: Flags_7
+    21300016: Flags_8
+    21300018: Flags_9
+    21300020: Flags_10
+    21300022: Flags_11
+    21300024: Flags_12
+    21300026: Flags_26
+    21300028: Flags_27
+    21300030: Flags_28
+    21300032: Flags_29
+    21300034: Flags_30
+    21300036: Flags_31
+    21300038: Flags_32
+    21300040: Flags_33
+    21300042: Flags_34
+    21300044: Flags_35
+    21300046: Flags_36
+    21300048: Flags_37
+    21300050: Flags_38
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flags_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 388
+        width: 25
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 388
+        width: 25
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 388
+        width: 31
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 388
+        width: 41
+        height: 112
+      alignment: 9
+      pivot: {x: 0.39867046, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 388
+        width: 51
+        height: 112
+      alignment: 9
+      pivot: {x: 0.2677331, y: 0.5156686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 388
+        width: 51
+        height: 112
+      alignment: 9
+      pivot: {x: 0.2677337, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 388
+        width: 52
+        height: 112
+      alignment: 9
+      pivot: {x: 0.23845261, y: 0.50391716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_7
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 388
+        width: 53
+        height: 112
+      alignment: 9
+      pivot: {x: 0.26822072, y: 0.50391716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_8
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 388
+        width: 53
+        height: 112
+      alignment: 9
+      pivot: {x: 0.25994182, y: 0.5117515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 274
+        width: 55
+        height: 112
+      alignment: 9
+      pivot: {x: 0.23428164, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 273
+        width: 54
+        height: 112
+      alignment: 9
+      pivot: {x: 0.23648298, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 274
+        width: 53
+        height: 112
+      alignment: 9
+      pivot: {x: 0.24039301, y: 0.4959052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 274
+        width: 53
+        height: 112
+      alignment: 9
+      pivot: {x: 0.22741239, y: 0.4979526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 125
+        width: 25
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 125
+        width: 25
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 125
+        width: 31
+        height: 122
+      alignment: 9
+      pivot: {x: 0.42784858, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 125
+        width: 41
+        height: 122
+      alignment: 9
+      pivot: {x: 0.3207524, y: 0.5026189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 125
+        width: 51
+        height: 122
+      alignment: 9
+      pivot: {x: 0.2619198, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_31
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 125
+        width: 51
+        height: 122
+      alignment: 9
+      pivot: {x: 0.23685949, y: 0.49476162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_32
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 125
+        width: 52
+        height: 122
+      alignment: 9
+      pivot: {x: 0.24191871, y: 0.5026189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_33
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 125
+        width: 53
+        height: 122
+      alignment: 9
+      pivot: {x: 0.24678932, y: 0.49738073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_34
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 125
+        width: 53
+        height: 122
+      alignment: 9
+      pivot: {x: 0.23473084, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 125
+        width: 55
+        height: 122
+      alignment: 9
+      pivot: {x: 0.23275812, y: 0.5026189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 54
+        height: 122
+      alignment: 9
+      pivot: {x: 0.24472326, y: 0.5026278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 53
+        height: 122
+      alignment: 9
+      pivot: {x: 0.25200394, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flags_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 53
+        height: 122
+      alignment: 9
+      pivot: {x: 0.2580529, y: 0.4973724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
